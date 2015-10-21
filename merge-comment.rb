@@ -1,3 +1,4 @@
+# diff org comment > diff-org-comm
 # ruby merge-comment.rb org comment diff-org-comm
 
 # require 'pry'

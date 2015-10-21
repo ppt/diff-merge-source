@@ -1,3 +1,4 @@
+# diff org new > diff-org-new
 # ruby merge-old-new.rb org new diff-org-new2
 
 # require 'pry'
